@@ -1,0 +1,10 @@
+streamlit 
+langchain 
+pydub 
+moviepy 
+pytube 
+pypdf 
+transformers 
+groq
+python-docx
+pytessaract
