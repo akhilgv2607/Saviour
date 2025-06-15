@@ -8,3 +8,8 @@ transformers
 groq
 python-docx
 pytessaract
+langchain-community
+faiss-cpu
+sentence-transformers
+git+https://github.com/openai/whisper.git
+langchain-groq
