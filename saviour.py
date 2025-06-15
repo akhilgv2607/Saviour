@@ -19,7 +19,7 @@ def init_llm():
         model="llama3-8b-8192",
         temperature=0.0,
         max_retries=2,
-        api_key=os.getenv("GROQ_API_KEY", "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")
+        api_key=os.getenv("GROQ_API_KEY", "Your_API_Key")
     )
 
 llm = init_llm()
